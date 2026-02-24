@@ -110,8 +110,8 @@ retail-image-classification/
 ```
 
 ## Контакты  
-Автор: Arseniy Bartenev
-Email: arseniybartenev@gmail.com 
+Автор: Arseniy Bartenev  
+Email: arseniybartenev@gmail.com   
 
 ---
 
