@@ -76,7 +76,7 @@ datasets/fruits_small/
 ## Установка и запуск  
 1. Клонируйте репозиторий:  
    ```bash
-   git clone https://github.com/your-username/retail-image-classification.git
+   git clone https://github.com/arseniybartenev/retail_image_classification.git
    cd retail-image-classification
    ```  
 2. Установите зависимости:  
